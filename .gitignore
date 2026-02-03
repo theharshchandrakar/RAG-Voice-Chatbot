@@ -1,0 +1,12 @@
+# everything from backend 
+backend/__pycache__/
+backend/chroma_db/
+backend/.env
+backend/sql_data.db
+backend/cache/
+
+# from frontend
+frontend/.env
+
+# Venv
+venv/
